@@ -1,10 +1,10 @@
-# 100 Days of Coding Challenge 
+# 👨‍💻 100 Days of Coding Challenge 
 Welcome to the 100 Days of Coding Challenge! This is your starting point to transition from a complete beginner to a confident developer.
 
-🎯 Challenge Objective
+# 🎯 Challenge Objective
 The goal is simple: dedicate a portion of your day to learning and coding for the next 100 days. By the end of this journey,
 
-📚 What Will  We Learn
+# 📚 What Will  We Learn
 Become a Developer, Beginner to Advance Level.
 Day 1- 15: Complete the 45 Given Assignment Task
 Will share the details once we complete the first 15 days.
@@ -17,13 +17,13 @@ Stay Consistent: Consistency is key. Make learning a habit, and you'll see progr
 🤝 Join the Community
 Join our community on Discord to connect with fellow learners, share your progress, and find support throughout your learning journey. Together, we grow stronger! 🌟
 
-📝 Daily Log
+# 📝 Daily Log
 Keep a daily log of your progress. Share your achievements, no matter how small, and inspire others to keep going. 💪
 
-💪 Let's Get Started!
+# 💪 Let's Get Started!
 Are you ready to embark on this 100-day journey? Remember, the path to becoming a developer is not just about reading and watching but about doing. Let's code, learn, and grow together! 🚀
 
-📅 Start Date: [02/03/2024]
+# 📅 Start Date: [02/03/2024]
 Happy Coding, and see you at the finish line! 🏁 Please Star the Repositry🌟
 
-#100DaysOfCode #CodeToLearn #LearningJourney
+# #100DaysOfCode #CodeToLearn #LearningJourney
